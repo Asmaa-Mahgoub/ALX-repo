@@ -1,0 +1,1 @@
+This file will contain bug solutions for all the errors we encountered in the project\r\n\I hope this can works well
